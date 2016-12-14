@@ -12,3 +12,6 @@ ul.inline-lgi li.list-group-item{
 	border: 1px solid #cecece;
 	border-radius: 0px;
 }
+h3.with-sub-h{
+	margin-bottom: 0px;
+}
